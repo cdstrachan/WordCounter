@@ -30,7 +30,6 @@ for k in commonletters:
     print(k[0] + " {:.2f}".format(float(100*k[1])/lettercount) + "%")
 
 # most common letters per position x
-#print ("########### MOST COMMON LETTERS PER POSITION ###########")
 for i in range(5):
     for word in words:
         d.update(set(word[i]))
