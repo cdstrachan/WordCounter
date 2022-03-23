@@ -1,10 +1,9 @@
 # Word Counter
-Calculate letter distribution in 5 letter words, useful for games like Wordle
+Calculate letter distribution in 5 letter words, useful for games like Wordle.
 
 # source.txt
 This is a sample source file containing only 3 words, but you can find a large file here:
 https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt. This repo also contains lots of complex analytics and is worth looking at.
-
 
 # Usage
 Run the script and it will generate text output, which will look something like this.
