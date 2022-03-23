@@ -6,6 +6,9 @@ This is a sample source file containing only 3 words, but you can find a large f
 https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt. This repo also contains lots of complex analytics and is worth looking at.
 
 # Usage
+```
+python counter.py
+```
 Run the script and it will generate text output, which will look something like this.
 
 ```
