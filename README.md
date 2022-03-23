@@ -9,6 +9,7 @@ https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt. Thi
 # Usage
 Run the script and it will generate text output, which will look something like this.
 
+```
 ########### WORDS COUNTED ################
 Word count: 5757
 Letter count: 28785
@@ -48,3 +49,4 @@ y 11.55%
 e 10.34%
 d 7.49%
 r 6.97%
+```
